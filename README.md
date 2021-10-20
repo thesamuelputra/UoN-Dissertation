@@ -1,1 +1,2 @@
 # Support Vector Regression and Vector Autoregression for Predicting Energy Consumption in London A Review and Comparison
+Analyzed the energy consumption of all the households in London for 2 years and develop a machine learning model in Python programming language, to then predict their future energy consumption based on various parameters. A few of the parameters include size of household, size of property, weather conditions, and their ACORN groups. The goal is to be able to create an actionable insight on future energy consumption prediction for energy suppliers.
